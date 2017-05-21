@@ -1,0 +1,67 @@
+{
+  "ads": [
+    {
+      "name": "Bike",
+      "onSale": true,
+      "price": 230.15,
+      "image": "bike.jpg",
+      "tags": [
+        "lifestyle",
+        "motor"
+      ]
+    },
+    {
+      "name": "iPhone 7",
+      "onSale": false,
+      "price": 50.00,
+      "image": "iphone.png",
+      "tags": [
+        "lifestyle",
+        "mobile"
+      ]
+    },
+    {
+      "name" : "iMac",
+      "onSale" : true,
+      "price" : 625.99,
+      "image" : "imac.png",
+      "tags" : [
+        "computer",
+        "Apple"
+      ]
+    },
+    {
+      "name" : "iPad",
+      "onSale" : false,
+      "price" : 98.50,
+      "image" : "ipad.png",
+      "tags" : [
+        "computer",
+        "Apple",
+        "mobile"
+      ]
+    },
+    {
+      "name" : "Tv",
+      "onSale" : true,
+      "price" : 100.50,
+      "image" : "tv.png",
+      "tags" : [
+        "lifestyle",
+        "movies",
+        "mobile"
+      ]
+    },
+    {
+      "name" : "Boat",
+      "onSale" : false,
+      "price" : 2500,
+      "image" : "boat.png",
+      "tags" : [
+        "outdoor",
+        "motor",
+        "lifestyle"
+      ]
+    }
+  ]
+}
